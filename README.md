@@ -1,6 +1,6 @@
 # Crypto App - All About Cryptos
 
-Project available [here]https://allaboutcryptos.netlify.app/
+Project available [here](https://allaboutcryptos.netlify.app/)
 
 # Getting Started with Create React App
 
